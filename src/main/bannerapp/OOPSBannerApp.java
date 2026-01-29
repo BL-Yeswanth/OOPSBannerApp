@@ -11,6 +11,6 @@
 public class OOPSBannerApp {
 
     public static void main(String[] args) {
-        // Initial project setup
+        System.out.println("OOPS");
     }
 }
